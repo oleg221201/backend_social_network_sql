@@ -1,0 +1,5 @@
+{
+  "PORT": 3000,
+  "jwtSecret": "Secret key, be carefully",
+  "dbURL": "postgres://nxwpomwy:0wxFQzhUU-ef_JWaPgEo5g_PWq3FMrZP@hattie.db.elephantsql.com:5432/nxwpomwy"
+}
